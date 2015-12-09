@@ -1,0 +1,10 @@
+\beamer@endinputifotherversion {3.24pt}
+\select@language {spanish}
+\beamer@sectionintoc {1}{Tema}{2}{0}{1}
+\beamer@subsectionintoc {1}{1}{Introducci\IeC {\'o}n}{2}{0}{1}
+\beamer@subsectionintoc {1}{2}{Agenda}{3}{0}{1}
+\beamer@subsectionintoc {1}{3}{Objetivos}{4}{0}{1}
+\beamer@subsectionintoc {1}{4}{Desarrollo}{5}{0}{1}
+\beamer@subsectionintoc {1}{5}{Conclusiones}{6}{0}{1}
+\beamer@subsectionintoc {1}{6}{Bibliografia}{7}{0}{1}
+\beamer@subsectionintoc {1}{7}{Licencia}{8}{0}{1}
